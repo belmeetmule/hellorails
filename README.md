@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>It is my first ROR app that displays hellow world !
 
 Things you may want to cover:
 
