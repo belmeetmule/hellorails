@@ -1,24 +1,10 @@
-# README
+# Hello rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+This is my first RoR app.
 
 * Deployment instructions
 
-* ...
+    - Clone the repo
+    - extract and cd to directory where you put the extracted files are
+    - open terminal and enter `rails s`
+    - open your browser visit  `http://localhost:3000/`
